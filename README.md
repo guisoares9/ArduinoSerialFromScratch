@@ -5,4 +5,4 @@ Implementing an Arduino Serial communication from scratch using interruption. Al
 - Calvin Suzuki de Camargo | N USP:11232420
 - Guilherme Soares Silvestre | N USP:11299832
 ## Link do Vídeo 
-https://youtu.be/r2Me9gBkCpo
+https://youtu.be/n_6b7Y_qszE
