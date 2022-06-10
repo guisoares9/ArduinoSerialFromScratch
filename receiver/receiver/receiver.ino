@@ -184,7 +184,7 @@ bool bitParidade(char dado) {
     int count = 0;
     for (int i = 0; i < 8; i++) 
         count += bitRead(dado, i);
-    return !(count % 2);  // par -> resto 0 -> complemento de 0 -> 1
+    return (count % 2);  // par -> resto 0 -> complemento de 0 -> 1
 }
 
 // Para transmissão
